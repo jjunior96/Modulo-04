@@ -4,10 +4,6 @@
 - Babel &nbsp;
 - Webpack &nbsp;
 &nbsp;
-&nbsp;
-### Instalação dos modulos necessarios &nbsp;
-```yarn```
-&nbsp;
 
 ### Conceitos &nbsp;
 - Class Component &nbsp;
@@ -17,4 +13,7 @@
 - Default Props & ProTypes &nbsp;
 - Ciclo de vida dos components &nbsp; 
 
-  
+&nbsp;
+### Instalação dos modulos necessarios &nbsp;
+```yarn```
+&nbsp;
