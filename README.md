@@ -4,7 +4,8 @@
 - Babel &nbsp;
 - Webpack &nbsp;
 &nbsp;
-- Instalação dos modulos necessarios
+&nbsp;
+### Instalação dos modulos necessarios &nbsp;
 ```yarn```
 &nbsp;
   
